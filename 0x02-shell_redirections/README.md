@@ -1,1 +1,1 @@
-0x02 shell input output redirections and filters
+Write a script that prints “Hello, World”
